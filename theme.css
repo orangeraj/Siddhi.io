@@ -26,8 +26,9 @@ body {
   color: #df5ba8e7;
   display: block;
   margin-top: 10px;
-  /*font-family: "Caveat", cursive;*/
-  font-family: "Caveat";
+  font-family: "Caveat Brush", cursive;
+
+  /*font-family: "Caveat";*/
   font-size: 6em;
   font-weight: normal;
   text-shadow: 0 0 10px #f0efef;
@@ -35,7 +36,8 @@ body {
 .heading-subtext {
   color: #df5ba8e7;
   display: block;
-  font-family: "Caveat", cursive;
+  font-family: "Caveat Brush", cursive;
+
   /*font-family: "Caveat";*/
   font-size: 0.6em;
 }
