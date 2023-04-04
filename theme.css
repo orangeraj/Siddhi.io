@@ -25,6 +25,7 @@ body {
 .heading {
   color: #df5ba8e7;
   display: block;
+  margin-top: 50px;
   font-family: "Caveat", cursive;
   font-size: 6em;
   font-weight: normal;
