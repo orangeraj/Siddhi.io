@@ -12,23 +12,26 @@ body {
 .header {
   background-image: url(./img/hero.jpeg);
   background-repeat: no-repeat;
-  background-position: 50% 60%;
+  background-position: 50% 10%;
   background-attachment: scroll;
   background-size: cover;
   height: 40vh;
   margin: 0;
   padding-top: 60vh;
+  /*mask-image: linear-gradient(to bottom, transparent, rgb(255, 255, 255)); /* Change the gradient values as per your requirement 
+  -webkit-mask-image: linear-gradient(to bottom, transparent, black); /* For Safari */
+  
 }
 .heading {
-  color: #ffffff;
+  color: #df5ba8e7;
   display: block;
   font-family: "Caveat", cursive;
   font-size: 6em;
   font-weight: normal;
-  text-shadow: 0 0 10px #000;
+  text-shadow: 0 0 10px #f0efef;
 }
 .heading-subtext {
-  color: #fff;
+  color: #df5ba8e7;
   display: block;
   font-family: "Caveat", cursive;
   font-size: 0.6em;
